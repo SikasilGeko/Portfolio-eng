@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'RetrovilleNC';
+    src: url(../fonts/RetrovilleNC.ttf)
+}
+
+
+
+.Header {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.option {
+
+    color: rgb(230, 219, 116);
+    font-family: 'RetrovilleNC';
+    text-decoration: none;
+}
+
+.options {
+    display: flex;
+    margin-right: 180px;
+}
+
+.Name {
+    color: white;
+
+    font-family: 'RetrovilleNC';
+    font-size: 20px;
+}
